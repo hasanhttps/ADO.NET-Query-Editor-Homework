@@ -1,0 +1,38 @@
+C:\Users\hasan\WPF Projects\ADO.NET QueryEditor HW\ADO.NET QueryEditor HW\bin\Debug\net6.0-windows\ADO.NET QueryEditor HW.exe
+C:\Users\hasan\WPF Projects\ADO.NET QueryEditor HW\ADO.NET QueryEditor HW\bin\Debug\net6.0-windows\ADO.NET QueryEditor HW.deps.json
+C:\Users\hasan\WPF Projects\ADO.NET QueryEditor HW\ADO.NET QueryEditor HW\bin\Debug\net6.0-windows\ADO.NET QueryEditor HW.runtimeconfig.json
+C:\Users\hasan\WPF Projects\ADO.NET QueryEditor HW\ADO.NET QueryEditor HW\bin\Debug\net6.0-windows\ADO.NET QueryEditor HW.dll
+C:\Users\hasan\WPF Projects\ADO.NET QueryEditor HW\ADO.NET QueryEditor HW\bin\Debug\net6.0-windows\ADO.NET QueryEditor HW.pdb
+C:\Users\hasan\WPF Projects\ADO.NET QueryEditor HW\ADO.NET QueryEditor HW\obj\Debug\net6.0-windows\ADO.NET QueryEditor HW.csproj.AssemblyReference.cache
+C:\Users\hasan\WPF Projects\ADO.NET QueryEditor HW\ADO.NET QueryEditor HW\obj\Debug\net6.0-windows\Views\MainView.g.cs
+C:\Users\hasan\WPF Projects\ADO.NET QueryEditor HW\ADO.NET QueryEditor HW\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\hasan\WPF Projects\ADO.NET QueryEditor HW\ADO.NET QueryEditor HW\obj\Debug\net6.0-windows\ADO.NET QueryEditor HW_MarkupCompile.cache
+C:\Users\hasan\WPF Projects\ADO.NET QueryEditor HW\ADO.NET QueryEditor HW\obj\Debug\net6.0-windows\ADO.NET QueryEditor HW_MarkupCompile.lref
+C:\Users\hasan\WPF Projects\ADO.NET QueryEditor HW\ADO.NET QueryEditor HW\obj\Debug\net6.0-windows\Views\MainView.baml
+C:\Users\hasan\WPF Projects\ADO.NET QueryEditor HW\ADO.NET QueryEditor HW\obj\Debug\net6.0-windows\ADO.NET QueryEditor HW.g.resources
+C:\Users\hasan\WPF Projects\ADO.NET QueryEditor HW\ADO.NET QueryEditor HW\obj\Debug\net6.0-windows\ADO.NET QueryEditor HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\WPF Projects\ADO.NET QueryEditor HW\ADO.NET QueryEditor HW\obj\Debug\net6.0-windows\ADO.NET QueryEditor HW.AssemblyInfoInputs.cache
+C:\Users\hasan\WPF Projects\ADO.NET QueryEditor HW\ADO.NET QueryEditor HW\obj\Debug\net6.0-windows\ADO.NET QueryEditor HW.AssemblyInfo.cs
+C:\Users\hasan\WPF Projects\ADO.NET QueryEditor HW\ADO.NET QueryEditor HW\obj\Debug\net6.0-windows\ADO.NET QueryEditor HW.csproj.CoreCompileInputs.cache
+C:\Users\hasan\WPF Projects\ADO.NET QueryEditor HW\ADO.NET QueryEditor HW\obj\Debug\net6.0-windows\ADO.NET QueryEditor HW.dll
+C:\Users\hasan\WPF Projects\ADO.NET QueryEditor HW\ADO.NET QueryEditor HW\obj\Debug\net6.0-windows\refint\ADO.NET QueryEditor HW.dll
+C:\Users\hasan\WPF Projects\ADO.NET QueryEditor HW\ADO.NET QueryEditor HW\obj\Debug\net6.0-windows\ADO.NET QueryEditor HW.pdb
+C:\Users\hasan\WPF Projects\ADO.NET QueryEditor HW\ADO.NET QueryEditor HW\obj\Debug\net6.0-windows\ADO.NET QueryEditor HW.genruntimeconfig.cache
+C:\Users\hasan\WPF Projects\ADO.NET QueryEditor HW\ADO.NET QueryEditor HW\obj\Debug\net6.0-windows\ref\ADO.NET QueryEditor HW.dll
+C:\Users\hasan\WPF Projects\ADO.NET QueryEditor HW\ADO.NET QueryEditor HW\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\hasan\WPF Projects\ADO.NET QueryEditor HW\ADO.NET QueryEditor HW\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hasan\WPF Projects\ADO.NET QueryEditor HW\ADO.NET QueryEditor HW\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\hasan\WPF Projects\ADO.NET QueryEditor HW\ADO.NET QueryEditor HW\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\hasan\WPF Projects\ADO.NET QueryEditor HW\ADO.NET QueryEditor HW\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\hasan\WPF Projects\ADO.NET QueryEditor HW\ADO.NET QueryEditor HW\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\hasan\WPF Projects\ADO.NET QueryEditor HW\ADO.NET QueryEditor HW\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\hasan\WPF Projects\ADO.NET QueryEditor HW\ADO.NET QueryEditor HW\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\hasan\WPF Projects\ADO.NET QueryEditor HW\ADO.NET QueryEditor HW\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\hasan\WPF Projects\ADO.NET QueryEditor HW\ADO.NET QueryEditor HW\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\hasan\WPF Projects\ADO.NET QueryEditor HW\ADO.NET QueryEditor HW\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\hasan\WPF Projects\ADO.NET QueryEditor HW\ADO.NET QueryEditor HW\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\hasan\WPF Projects\ADO.NET QueryEditor HW\ADO.NET QueryEditor HW\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\hasan\WPF Projects\ADO.NET QueryEditor HW\ADO.NET QueryEditor HW\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\hasan\WPF Projects\ADO.NET QueryEditor HW\ADO.NET QueryEditor HW\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hasan\WPF Projects\ADO.NET QueryEditor HW\ADO.NET QueryEditor HW\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hasan\WPF Projects\ADO.NET QueryEditor HW\ADO.NET QueryEditor HW\obj\Debug\net6.0-windows\ADO.NET QueryEditor HW.csproj.CopyComplete
